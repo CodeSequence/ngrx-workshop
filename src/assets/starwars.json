@@ -1,0 +1,906 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2701,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "nte-CwAAQBAJ",
+      "etag": "L8q5SquNev4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nte-CwAAQBAJ",
+      "volumeInfo": {
+        "title": "Star Wars: Bloodline",
+        "authors": [
+          "Claudia Gray"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2016-05-05",
+        "description": "The Sunday Times Bestseller WITNESS THE BIRTH OF THE RESISTANCE When the Rebellion defeated the Empire in the skies above Endor, Leia Organa believed it was the beginning to a lasting peace. But after decades of vicious infighting and partisan gridlock in the New Republic Senate, that hope seems like a distant memory. Now a respected senator, Leia must grapple with the dangers that threaten to cripple the fledgling democracy—from both within and without. Underworld kingpins, treacherous politicians, and Imperial loyalists are sowing chaos in the galaxy. Desperate to take action, senators are calling for the election of a First Senator. It is their hope that this influential post will bring strong leadership to a divided galaxy. As the daughter of Darth Vader, Leia faces with distrust the prospect of any one person holding such a powerful position—even when supporters suggest Leia herself for the job. But a new enemy may make this path Leia’s only option. For at the edges of the galaxy, a mysterious threat is growing...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781473505353"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1473505356"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nte-CwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nte-CwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nte-CwAAQBAJ&dq=Star+Wars+Bloodline&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nte-CwAAQBAJ&dq=Star+Wars+Bloodline&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Star_Wars_Bloodline.html?hl=&id=nte-CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=nte-CwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Sunday Times Bestseller WITNESS THE BIRTH OF THE RESISTANCE When the Rebellion defeated the Empire in the skies above Endor, Leia Organa believed it was the beginning to a lasting peace."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IaXSCQAAQBAJ",
+      "etag": "xBb7xEcTdHQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IaXSCQAAQBAJ",
+      "volumeInfo": {
+        "title": "Bloodline (Star Wars)",
+        "authors": [
+          "Claudia Gray"
+        ],
+        "publisher": "Del Rey",
+        "publishedDate": "2016-05-03",
+        "description": "NEW YORK TIMES BESTSELLER • From the author of Star Wars: Lost Stars comes a thrilling novel set in the years before the events of Star Wars: The Force Awakens. “Unmissable . . . Bloodline’s tense politics, vivid new characters, and perfectly characterized Leia make it feel as central to the Star Wars universe as one of the films.”—Tor.com WITNESS THE BIRTH OF THE RESISTANCE When the Rebellion defeated the Empire in the skies above Endor, Leia Organa believed it was the beginning to a lasting peace. But after decades of vicious infighting and partisan gridlock in the New Republic Senate, that hope seems like a distant memory. Now a respected senator, Leia must grapple with the dangers that threaten to cripple the fledgling democracy—from both within and without. Underworld kingpins, treacherous politicians, and Imperial loyalists are sowing chaos in the galaxy. Desperate to take action, senators are calling for the election of a First Senator. It is their hope that this influential post will bring strong leadership to a divided galaxy. As the daughter of Darth Vader, Leia faces with distrust the prospect of any one person holding such a powerful position—even when supporters suggest Leia herself for the job. But a new enemy may make this path Leia’s only option. For at the edges of the galaxy, a mysterious threat is growing. . . . Praise for Bloodline “[Claudia] Gray paints a much more complete galaxy than we often get to see on the big screen. . . . Knowing that Rian Johnson (writer, director of Star Wars: Episode VIII) had some creative input on the novel provides hope that we haven’t seen the last of all of these wonderful characters. . . . Star Wars: Bloodline isn’t just a great Star Wars book, or a great Leia book, or a great book; it’s a great introduction into the larger world of Star Wars in general.”—ComicBook.com “Bloodline is a nonstop page-turner that grabs at heartstrings that you weren’t aware of and yanks down on every one of them. The story is loaded with context for The Force Awakens that plants the seeds for The First Order in perfectly haunting ways, and leaves the reader grasping for more details on newly discovered favorite characters.”—Inverse From the Hardcover edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101885253"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101885254"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.0,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IaXSCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IaXSCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IaXSCQAAQBAJ&printsec=frontcover&dq=Star+Wars+Bloodline&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IaXSCQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-IaXSCQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=IaXSCQAAQBAJ&rdid=book-IaXSCQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Bloodline_Star_Wars-sample-epub.acsm?id=IaXSCQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=IaXSCQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story is loaded with context for The Force Awakens that plants the seeds for The First Order in perfectly haunting ways, and leaves the reader grasping for more details on newly discovered favorite characters.”—Inverse From the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tA7TCwAAQBAJ",
+      "etag": "rPLG6rGip5w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tA7TCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Bloodlines",
+        "authors": [
+          "Karen Traviss"
+        ],
+        "publisher": "Lucasbooks",
+        "publishedDate": "2006",
+        "description": "With the Galactic Alliance confronting imminent civil war, Han and Leia return to Corellia, while their son Jacen, now a master of the Force and guided by his Sith mentor Lumiya, starts down the same path of his grandfather, Darth Vader.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345477514"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0345477510"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 380,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.0,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tA7TCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tA7TCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tA7TCwAAQBAJ&printsec=frontcover&dq=Star+Wars+Bloodline&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tA7TCwAAQBAJ&dq=Star+Wars+Bloodline&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bloodlines.html?hl=&id=tA7TCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=tA7TCwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With the Galactic Alliance confronting imminent civil war, Han and Leia return to Corellia, while their son Jacen, now a master of the Force and guided by his Sith mentor Lumiya, starts down the same path of his grandfather, Darth Vader."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9KJRU7vHqVYC",
+      "etag": "AstyHJ/60xs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9KJRU7vHqVYC",
+      "volumeInfo": {
+        "title": "Bloodlines: Star Wars Legends (Legacy of the Force)",
+        "authors": [
+          "Karen Traviss"
+        ],
+        "publisher": "Del Rey",
+        "publishedDate": "2008-04-29",
+        "description": "A new era of exciting adventures and shocking revelations continues to unfold, as the legendary Star Wars saga sweeps forward into astonishing new territory. Civil war looms as the fledgling Galactic Alliance confronts a growing number of rebellious worlds–and the approaching war is tearing the Skywalker and Solo families apart. Han and Leia return to Han’s homeworld, Corellia, the heart of the resistance. Their children, Jacen and Jaina, are soldiers in the Galactic Alliance’s campaign to crush the insurgents. Jacen, now a complete master of the Force, has his own plans to bring order to the galaxy. Guided by his Sith mentor, Lumiya, and with Luke’s young son Ben at his side, Jacen embarks on the same path that his grandfather Darth Vader once did. And while Han and Leia watch their only son become a stranger, a secret assassin entangles the couple with a dreaded name from Han’s past: Boba Fett. In the new galactic order, friends and enemies are no longer what they seem. . . . Features a bonus section following the novel that includes a primer on the Star Wars expanded universe, and over half a dozen excerpts from some of the most popular Star Wars books of the last thirty years!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345510495"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0345510496"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9KJRU7vHqVYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9KJRU7vHqVYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9KJRU7vHqVYC&pg=PP1&dq=Star+Wars+Bloodline&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9KJRU7vHqVYC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-9KJRU7vHqVYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9KJRU7vHqVYC&rdid=book-9KJRU7vHqVYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000.0,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000.0,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Bloodlines_Star_Wars_Legends_Legacy_of_t-sample-epub.acsm?id=9KJRU7vHqVYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Bloodlines_Star_Wars_Legends_Legacy_of_t-sample-pdf.acsm?id=9KJRU7vHqVYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=9KJRU7vHqVYC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": ". . . Features a bonus section following the novel that includes a primer on the Star Wars expanded universe, and over half a dozen excerpts from some of the most popular Star Wars books of the last thirty years!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7S6OAwAAQBAJ",
+      "etag": "X/CRWAfbKX0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7S6OAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Tarkin: Star Wars",
+        "authors": [
+          "James Luceno"
+        ],
+        "publisher": "Del Rey",
+        "publishedDate": "2014-11-04",
+        "description": "A long time ago in a galaxy far, far away. . . . Bestselling Star Wars veteran James Luceno gives Grand Moff Tarkin the Star Wars: Darth Plagueis treatment, bringing the legendary character from A New Hope to full, fascinating life. He’s the scion of an honorable and revered family. A dedicated soldier and distinguished legislator. Loyal proponent of the Republic and trusted ally of the Jedi Order. Groomed by the ruthless politician and Sith Lord who would be Emperor, Governor Wilhuff Tarkin rises through the Imperial ranks, enforcing his authority ever more mercilessly . . . and zealously pursuing his destiny as the architect of absolute dominion. Rule through the fear of force rather than force itself, he advises his Emperor. Under Tarkin’s guidance, an ultimate weapon of unparalleled destruction moves ever closer to becoming a terrifying reality. When the so-called Death Star is completed, Tarkin is confident that the galaxy’s lingering pockets of Separatist rebellion will be brought to heel—by intimidation . . . or annihilation. Until then, however, insurgency remains a genuine threat. Escalating guerrilla attacks by resistance forces and newfound evidence of a growing Separatist conspiracy are an immediate danger the Empire must meet with swift and brutal action. And to bring down a band of elusive freedom fighters, the Emperor turns to his most formidable agents: Darth Vader, the fearsome new Sith enforcer as remorseless as he is mysterious; and Tarkin—whose tactical cunning and cold-blooded efficiency will pave the way for the Empire’s supremacy . . . and its enemies’ extinction. Praise for Tarkin “Tarkin tells a compelling tale of mystery while revealing much about a character who has fueled debate among fans since 1977, as well as the oppressive regime he represents. [James] Luceno has proven once again that the villains of Star Wars are as much fun as the good guys.”—New York Daily News “Another home run in the new canon . . . This is the highest and best distillation of Tarkin stories, old and new, we’ve ever been given.”—Big Shiny Robot “A spectacular novel, with the intrigue, action, and profound characterization we have come to expect from the pen of Luceno . . . [Tarkin] provides a nuanced, multi-faceted anti-hero who is captivating, ominous, and calculating; in many ways, this is an origin tale of the Empire [and] a fascinating portrait of one of the more popular characters in the Original Trilogy. It may very well be one my favorite Star Wars novels.”—Coffee with Kenobi “A fascinating look at the pathos of one of the galaxy’s most criminally underused characters.”—TheForce.net From the Hardcover edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780553392890"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0553392891"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7S6OAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7S6OAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7S6OAwAAQBAJ&printsec=frontcover&dq=Star+Wars+Bloodline&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7S6OAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-7S6OAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7S6OAwAAQBAJ&rdid=book-7S6OAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Tarkin_Star_Wars-sample-epub.acsm?id=7S6OAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=7S6OAwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the highest and best distillation of Tarkin stories, old and new, we’ve ever been given.”—Big Shiny Robot “A spectacular novel, with the intrigue, action, and profound characterization we have come to expect from the pen of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RpiTCgAAQBAJ",
+      "etag": "gjUnGFNbJfc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RpiTCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Life Debt: Aftermath (Star Wars)",
+        "authors": [
+          "Chuck Wendig"
+        ],
+        "publisher": "Del Rey",
+        "publishedDate": "2016-07-12",
+        "description": "NEW YORK TIMES BESTSELLER • Set between the events of Return of the Jedi and The Force Awakens, the never-before-told story that began with Star Wars: Aftermath continues in this thrilling novel, the second book of Chuck Wendig’s bestselling trilogy. It is a dark time for the Empire. . . . The Emperor is dead, and the remnants of his former Empire are in retreat. As the New Republic fights to restore a lasting peace to the galaxy, some dare to imagine new beginnings and new destinies. For Han Solo, that means settling his last outstanding debt, by helping Chewbacca liberate the Wookiee’s homeworld of Kashyyyk. Meanwhile, Norra Wexley and her band of Imperial hunters pursue Grand Admiral Rae Sloane and the Empire’s remaining leadership across the galaxy. Even as more and more officers are brought to justice, Sloane continues to elude the New Republic, and Norra fears Sloane may be searching for a means to save the crumbling Empire from oblivion. But the hunt for Sloane is cut short when Norra receives an urgent request from Princess Leia Organa. The attempt to liberate Kashyyyk has carried Han Solo, Chewbacca, and a band of smugglers into an ambush—resulting in Chewie’s capture and Han’s disappearance. Breaking away from their official mission and racing toward the Millennium Falcon’s last known location, Norra and her crew prepare for any challenge that stands between them and their missing comrades. But they can’t anticipate the true depth of the danger that awaits them—or the ruthlessness of the enemy drawing them into his crosshairs. Praise for Aftermath: Life Debt “Star Wars: Aftermath: Life Debt has found its place at the top of all the new canon works. Simply, outstandingly great Star Wars.”—Star Wars Post “[Chuck] Wendig once again strikes gold, offering a sweeping narrative with plenty of insight into both the state of the galaxy at large and beloved characters both new and old.”—Alternative Nation “With an intense plot, political intrigue and great characterization, Wendig’s Aftermath: Life Debt is an excellent read.”—Flickering Myth Praise for Chuck Wendig’s Aftermath “Star Wars: Aftermath [reveals] what happened after the events of 1983’s Return of the Jedi. It turns out, there’s more than just the Empire for the good guys to worry about.”—The Hollywood Reporter “The Force is strong with Star Wars: Aftermath.”—Alternative Nation “The Star Wars universe is fresh and new again, and just as rich and mysterious as it always was.”—Den of Geek From the Hardcover edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101966945"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101966947"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RpiTCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RpiTCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RpiTCgAAQBAJ&printsec=frontcover&dq=Star+Wars+Bloodline&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RpiTCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-RpiTCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RpiTCgAAQBAJ&rdid=book-RpiTCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Life_Debt_Aftermath_Star_Wars-sample-epub.acsm?id=RpiTCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=RpiTCgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NEW YORK TIMES BESTSELLER • Set between the events of Return of the Jedi and The Force Awakens, the never-before-told story that began with Star Wars: Aftermath continues in this thrilling novel, the second book of Chuck Wendig’s ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OYQLkAEACAAJ",
+      "etag": "BS7UkK5n5+I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OYQLkAEACAAJ",
+      "volumeInfo": {
+        "title": "Bloodline (Star Wars)",
+        "authors": [
+          "Claudia Gray"
+        ],
+        "publisher": "Del Rey Books",
+        "publishedDate": "2017-01-31",
+        "description": "NEW YORK TIMES BESTSELLER From theauthor of Star Wars: Lost Stars comes a thrilling novel set in the years before the events of Star Wars: The Force Awakens. Unmissable . . . Bloodline s tense politics, vivid new characters, and perfectly characterized Leia make it feel as central to the Star Wars universe as one of the films. Tor.com WITNESS THE BIRTH OF THE RESISTANCE When the Rebellion defeated the Empire in the skies above Endor, Leia Organa believed it was the beginning to a lasting peace. But after decades of vicious infighting and partisan gridlock in the New Republic Senate, that hope seems like a distant memory. Now a respected senator, Leia must grapple with the dangers that threaten to cripple the fledgling democracy from both within and without. Underworld kingpins, treacherous politicians, and Imperial loyalists are sowing chaos in the galaxy. Desperate to take action, senators are calling for the election of a First Senator. It is their hope that this influential post will bring strong leadership to a divided galaxy. As the daughter of Darth Vader, Leia faces with distrust the prospect of any one person holding such a powerful position even when supporters suggest Leia herself for the job. But a new enemy may make this path Leia s only option. For at the edges of the galaxy, a mysterious threat is growing. . . . Praise for Bloodline [Claudia] Gray paints a much more complete galaxy than we often get to see on the big screen. . . . Knowing that Rian Johnson (writer, director of Star Wars: Episode VIII)had some creative input on the novel provides hope that we haven t seen the last of all of these wonderful characters. . . . Star Wars: Bloodline isn t just a greatStar Wars book, or a great Leiabook, or a great book; it s a great introduction into the larger world ofStar Wars in general. ComicBook.com Bloodline is a nonstop page-turner that grabs at heartstrings that you weren t aware of and yanks down on every one of them. The story is loaded with context for The Force Awakens that plants the seeds for The First Order in perfectly haunting ways, and leaves the reader grasping for more details on newly discovered favorite characters. Inverse From the Hardcover edition.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1101885262"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101885260"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OYQLkAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OYQLkAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OYQLkAEACAAJ&dq=Star+Wars+Bloodline&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=OYQLkAEACAAJ&dq=Star+Wars+Bloodline&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bloodline_Star_Wars.html?hl=&id=OYQLkAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=OYQLkAEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story is loaded with context for The Force Awakens that plants the seeds for The First Order in perfectly haunting ways, and leaves the reader grasping for more details on newly discovered favorite characters."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XbIHDAAAQBAJ",
+      "etag": "gnKM7LVaxWg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XbIHDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Star Wars: Ahsoka",
+        "authors": [
+          "E. K. Johnston"
+        ],
+        "publisher": "Disney Electronic Content",
+        "publishedDate": "2016-10-11",
+        "description": "Fans have long wondered what happened to Ahsoka after she left the Jedi Order near the end of the Clone Wars, and before she re-appeared as the mysterious Rebel operative Fulcrum in Rebels. Finally, her story will begin to be told. Following her experiences with the Jedi and the devastation of Order 66, Ahsoka is unsure she can be part of a larger whole ever again. But her desire to fight the evils of the Empire and protect those who need it will lead her right to Bail Organa, and the Rebel Alliance....",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484705674"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "148470567X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XbIHDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XbIHDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XbIHDAAAQBAJ&printsec=frontcover&dq=Star+Wars+Bloodline&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XbIHDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-XbIHDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XbIHDAAAQBAJ&rdid=book-XbIHDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.399E7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.399E7,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Star_Wars_Ahsoka-sample-epub.acsm?id=XbIHDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=XbIHDAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fans have long wondered what happened to Ahsoka after she left the Jedi Order near the end of the Clone Wars, and before she re-appeared as the mysterious Rebel operative Fulcrum in Rebels."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oDZiDAAAQBAJ",
+      "etag": "DHMTxk3xEd4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oDZiDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Silence Fallen",
+        "authors": [
+          "Patricia Briggs"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2017-03-07",
+        "description": "In the #1 New York Times bestselling Mercy Thompson novels, the coyote shapeshifter has found her voice in the werewolf pack. But when Mercy’s bond with the pack—and her mate—is broken, she’ll learn what it truly means to be alone... Attacked and abducted in her home territory, Mercy finds herself in the clutches of the most powerful vampire in the world, taken as a weapon to use against alpha werewolf Adam and the ruler of the Tri-Cities vampires. In coyote form, Mercy escapes—only to find herself without money, without clothing, and alone in the heart of Europe... Unable to contact Adam and the rest of the pack, Mercy has allies to find and enemies to fight, and she needs to figure out which is which. Ancient powers stir, and Mercy must be her agile best to avoid causing a war between vampires and werewolves, and between werewolves and werewolves. And in the heart of the ancient city of Prague, old ghosts rise...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780698195813"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0698195817"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oDZiDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oDZiDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oDZiDAAAQBAJ&printsec=frontcover&dq=Star+Wars+Bloodline&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oDZiDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-oDZiDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oDZiDAAAQBAJ&rdid=book-oDZiDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.399E7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.399E7,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Silence_Fallen-sample-epub.acsm?id=oDZiDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=oDZiDAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the #1 New York Times bestselling Mercy Thompson novels, the coyote shapeshifter has found her voice in the werewolf pack."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q2_WBQAAQBAJ",
+      "etag": "6RqoA+vfe8Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q2_WBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Battlefront: Twilight Company (Star Wars)",
+        "authors": [
+          "Alexander Freed"
+        ],
+        "publisher": "Del Rey",
+        "publishedDate": "2015-11-03",
+        "description": "NAMED ONE OF THE BEST BOOKS OF THE YEAR BY BUZZFEED • A companion novel inspired by the hotly anticipated videogame Star Wars: Battlefront, this action-packed adventure follows a squad of soldiers caught in the trenches of the ultimate galactic war between good and evil. The bravest soldiers. The toughest warriors. The ultimate survivors. Among the stars and across the vast expanses of space, the Galactic Civil War rages. On the battlefields of multiple worlds in the Mid Rim, legions of ruthless stormtroopers—bent on crushing resistance to the Empire wherever it arises—are waging close and brutal combat against an armada of freedom fighters. In the streets and alleys of ravaged cities, the front-line forces of the Rebel Alliance are taking the fight to the enemy, pushing deeper into Imperial territory and grappling with the savage flesh-and-blood realities of war on the ground. Leading the charge are the soldiers—men and women, human and nonhuman—of the Sixty-First Mobile Infantry, better known as Twilight Company. Hard-bitten, war-weary, and ferociously loyal to one another, the members of this renegade outfit doggedly survive where others perish, and defiance is their most powerful weapon against the deadliest odds. When orders come down for the rebels to fall back in the face of superior opposition numbers and firepower, Twilight reluctantly complies. Then an unlikely ally radically changes the strategic equation—and gives the Alliance’s hardest-fighting warriors a crucial chance to turn retreat into resurgence. Orders or not, alone and outgunned but unbowed, Twilight Company locks, loads, and prepares to make its boldest maneuver—trading down-and-dirty battle in the trenches for a game-changing strike at the ultimate target: the very heart of the Empire’s military machine. Praise for Battlefront: Twilight Company “A novel that ties in to a video game based on a sprawling sci-fi franchise shouldn’t be this good. . . . Battlefront: Twilight Company effortlessly thrusts readers onto the frontlines of the Galactic Civil War in a gripping tale.”—New York Daily News “Compelling . . . an entertaining journey through a galaxy in turmoil . . . Battlefront: Twilight Company explores what happens to the cannon fodder fighting and dying in the background of space opera’s cinematic action sequences. Focusing on the life of a few low-ranking Rebel grunts caught up in a vast interstellar conflict, the novel is an enjoyable tale of interstellar adventure and drama.”—IGN “Satisfyingly complex, immersive and moving . . . a war story unlike any Star Wars book that’s come before it.”—Roqoo Depot “A military thriller [with] some pretty impressive actions scenes [and] the lived-in, gritty feel of the original trilogy . . . [Alexander] Freed shows us the military side of the Star Wars universe in a way that we haven’t seen much before, while also giving readers new perspectives on classic characters and moments.”—Tech Times “Twilight Company is one of the greatest Star Wars stories ever about someone doggedly, cynically coming to understand why acting according to the light side is important.”—Den of Geek “The strongest canon piece of Star Wars literature thus far . . . sure to be a fan-pleasing favorite . . . Explosive action scenes and dark humor only punctuate this character-driven tale [with] heavy world-building and cameos from other characters throughout the Star Wars pantheon.”—Alternative Nation From the Hardcover edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101884775"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101884770"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.6.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q2_WBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q2_WBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=q2_WBQAAQBAJ&printsec=frontcover&dq=Star+Wars+Bloodline&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=q2_WBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-q2_WBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=q2_WBQAAQBAJ&rdid=book-q2_WBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Battlefront_Twilight_Company_Star_Wars-sample-epub.acsm?id=q2_WBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=q2_WBQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": ". . Explosive action scenes and dark humor only punctuate this character-driven tale [with] heavy world-building and cameos from other characters throughout the Star Wars pantheon.”—Alternative Nation From the Hardcover edition."
+      }
+    }
+  ]
+}

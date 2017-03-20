@@ -1,0 +1,850 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 757,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "akGMDAEACAAJ",
+      "etag": "E9uwN35qxJk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/akGMDAEACAAJ",
+      "volumeInfo": {
+        "title": "Rxjs in Action",
+        "authors": [
+          "Paul P. Daniels",
+          "Luis Atencio"
+        ],
+        "publisher": "Manning Publications",
+        "publishedDate": "2017-03",
+        "description": "A growing flood of data is aimed at JavaScript applications, and they need be ready for it. As more and more data is received, applications must scale to stay operational. There's also the problem of latency when data has to be fetched from remote locations. RxJS, or Reactive Extensions for JavaScript, is a library for transforming, composing, and consuming streams of data. RxJS combines reactive and functional programming to give an extensible, asynchronous event handling system for JavaScript. RxJS in Action gives readers the development skills they need to create reactive applications with RxJS. This book is full of theory and practical examples that build on each other and help readers begin thinking in a reactive manner. The book begins by teaching the fundamentals of functional programming, and dives in to the basics of RxJS and what it means to be reactive. Next, it teaches how to build real-world applications with RxJS. The last part of the book tackles the advanced topics to take the reader's reactive programming skills to the next level, as they will learn how to deal with error handling, unit testing, and the role of RxJS when combined with frameworks such as Angular.js or Cycle.js. Examples in the book use RxJS 5, the latest version of RxJS built with an eye on performance and simplicity. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1617293415"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781617293412"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 425,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=akGMDAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=akGMDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=akGMDAEACAAJ&dq=RxJS&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=akGMDAEACAAJ&dq=RxJS&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rxjs_in_Action.html?hl=&id=akGMDAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=akGMDAEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Examples in the book use RxJS 5, the latest version of RxJS built with an eye on performance and simplicity. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tc33sgEACAAJ",
+      "etag": "Qn7rQs8OomM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tc33sgEACAAJ",
+      "volumeInfo": {
+        "title": "Reactive Programming With Rxjs",
+        "subtitle": "Untangle Your Asynchronous Javascript Code",
+        "authors": [
+          "Sergi Mansilla"
+        ],
+        "publishedDate": "2015-12-19",
+        "description": "Reactive programming is revolutionary. It makes asynchronous programming cleaner, intuitive, and robust. Discover how to use the RxJS library to write programs in a simpler way, unifying asynchronous mechanisms such as callbacks and promises into a single, powerful construct. Learn to think about your programs as streams of data that you can transform by expressing what should happen, instead of having to painstakingly program how it should happen. You'll be able to handle real-world concurrency and write complex flows of events in your applications with ease. Create highly concurrent applications while writing simpler code using the Reactive Extensions for JavaScript (RxJS), a set of libraries for event composition. Programming real-world applications in JavaScript involves lots of asynchronous events--you might end up spending more time coordinating asynchronous code in your program than writing its actual functionality. This book introduces concepts and tools from reactive programming that will help you write cleaner and more robust asynchronous programs. Find out about Observable sequences, a unifying data type to write highly concurrent code. Discover Schedulers and change the concept of time in your applications, making asynchronous testing sane again. Along the way you'll see real-world examples for the browser and Node.js, including a real-time earthquake visualization in 20 lines of code and a frantic shoot-'em-up space videogame. You'll also use Cycle.js - a modern, fully reactive web framework - to make a whole new breed of web applications. By the end of the book, you'll know how to apply reactive programming to solve complex problems, build efficient programs with reactive user interfaces, and write your code more declaratively. What You Need: A modern web browser, Node.JS installed in your computer, and the RxJS JavaScript library.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1680501291"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781680501292"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tc33sgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tc33sgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tc33sgEACAAJ&dq=RxJS&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tc33sgEACAAJ&dq=RxJS&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reactive_Programming_With_Rxjs.html?hl=&id=tc33sgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=tc33sgEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book introduces concepts and tools from reactive programming that will help you write cleaner and more robust asynchronous programs. Find out about Observable sequences, a unifying data type to write highly concurrent code."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ChJpGMFuAmUC",
+      "etag": "H4PCPZF3uXo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ChJpGMFuAmUC",
+      "volumeInfo": {
+        "title": "Programming Reactive Extensions and LINQ",
+        "authors": [
+          "Jesse Liberty",
+          "Paul Betts"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2011-10-26",
+        "description": "Pro Reactive Extensions and LINQ is a deep dive into the next important technology for .NET developers: Reactive Extensions. This in-depth tutorial goes beyond what is available anywhere else to teach how to write WPF, Silverlight, and Windows Phone applications using the Reactive Extensions (Rx) to handle events and asynchronous method calls. Reactive programming allows you to turn those aspects of your code that are currently imperative into something much more event-driven and flexible. For this reason, it’s sometimes referred to as LINQ for Events. Reactive programming hinges on the concept of the observable collection, as opposed to the simple enumerable collection with which we’re all familiar. For example, to extract data from a collection and add it to a list box, you would traditionally iterate through the list box, extracting each object in turn. This approach works fine, but it requires significant knowledge about the data you’re working with, which can be limiting. In Rx programming, you're instead informed about each object in turn and then free to react to each notification however you like, which affords much greater flexibility. This book shows you how reactive programming can be applied to a range of situations—from WPF applications to Windows Phone apps—to improve coding efficiency and boost performance. What you’ll learn How to create, debug and manage reactive extensions in many situations The observer pattern and how it can be applied to your projects How to avoid spaghetti code by using Rx to manage your asynchronous methods How to use SelectMany to explore the heart of the Reactive Extensions How to come to grips with the reactive user interface framework for building both small and large applications Who this book is for This book will be most beneficial to existing .NET developers with a grounding in WPF, Silverlight and C#, who want to take their skills further using the powerful reactive programming approach. Table of Contents Welcome to LINQ and RX Core LINQ Core Rx Practical Rx Inside Rx and LINQ LINQ to SQL Rx and Javascript Reactive UI: Rx and MVVM Testing Rx",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781430237471"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1430237473"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ChJpGMFuAmUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ChJpGMFuAmUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ChJpGMFuAmUC&pg=PA113&dq=RxJS&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ChJpGMFuAmUC&dq=RxJS&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programming_Reactive_Extensions_and_LINQ.html?hl=&id=ChJpGMFuAmUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Programming_Reactive_Extensions_and_LINQ-sample-epub.acsm?id=ChJpGMFuAmUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Programming_Reactive_Extensions_and_LINQ-sample-pdf.acsm?id=ChJpGMFuAmUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=ChJpGMFuAmUC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Let&#39;s take a look at how \u003cb\u003eRxJS\u003c/b\u003e can be used in two simple examples. We&#39;ll use the \u003cbr\u003e\nsame HTML page for these and other examples that appear in the first part ofthis \u003cbr\u003e\nchapter. For each demo, we&#39;ll modify the JavaScript script that executes. First&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0Fr_lxPGM6QC",
+      "etag": "T0OBqg5gzvM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0Fr_lxPGM6QC",
+      "volumeInfo": {
+        "title": "Functional JavaScript",
+        "subtitle": "Introducing Functional Programming with Underscore.js",
+        "authors": [
+          "Michael Fogus"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2013-06-01",
+        "description": "How can you overcome JavaScript language oddities and unsafe features? With this book, you’ll learn how to create code that’s beautiful, safe, and simple to understand and test by using JavaScript’s functional programming support. Author Michael Fogus shows you how to apply functional-style concepts with Underscore.js, a JavaScript library that facilitates functional programming techniques. Sample code is available on GitHub at https://github.com/funjs/book-source. Fogus helps you think in a functional way to help you minimize complexity in the programs you build. If you’re a JavaScript programmer hoping to learn functional programming techniques, or a functional programmer looking to learn JavaScript, this book is the ideal introduction. Use applicative programming techniques with first-class functions Understand how and why you might leverage variable scoping and closures Delve into higher-order functions—and learn how they take other functions as arguments for maximum advantage Explore ways to compose new functions from existing functions Get around JavaScript’s limitations for using recursive functions Reduce, hide, or eliminate the footprint of state change in your programs Practice flow-based programming with chains and functional pipelines Discover how to code without using classes",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449360795"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449360793"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0Fr_lxPGM6QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0Fr_lxPGM6QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0Fr_lxPGM6QC&pg=PA219&dq=RxJS&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0Fr_lxPGM6QC&dq=RxJS&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Functional_JavaScript.html?hl=&id=0Fr_lxPGM6QC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=0Fr_lxPGM6QC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Microsoft&#39;s Reactive Extensions for JavaScript (\u003cb\u003eRxJS\u003c/b\u003e) is a set of libraries that \u003cbr\u003e\nfacilitate asynchronous, event-driven programming models. \u003cb\u003eRxJS\u003c/b\u003e works against \u003cbr\u003e\nan Observa ble abstraction that allows you to process asynchronous data \u003cbr\u003e\nstreams&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WFQLDgAAQBAJ",
+      "etag": "xWDC5pMApog",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WFQLDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Pro Angular",
+        "authors": [
+          "Adam Freeman"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2017-01-24",
+        "description": "Get the most from Angular 2, the leading framework for building dynamic JavaScript applications. Best-selling author Adam Freeman begins by describing the MVC pattern and the benefits it can offer and then shows you how to use Angular in your projects, starting from the nuts-and-bolts and building up to the most advanced and sophisticated features, going in-depth to give you the knowledge you need. Each topic is covered clearly and concisely and is packed with the details you need to learn to be truly effective. The most important features are given a no-nonsense in-depth treatment and chapters include common problems and details of how to avoid them. What you’ll learn Gain a solid architectural understanding of the MVC Pattern Learn how to create rich and dynamic web app clients using Angular 2 Learn how to extend and customize Angular 2 Learn how to test your Angular 2 projects Who this book is for Web developers with a foundation knowledge of HTML and JavaScript who want to create rich client-side applications.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484223079"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1484223071"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 788,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WFQLDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WFQLDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WFQLDgAAQBAJ&pg=PA565&dq=RxJS&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WFQLDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-WFQLDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 49.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 31.49,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WFQLDgAAQBAJ&rdid=book-WFQLDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4.999E7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3.149E7,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Pro_Angular-sample-epub.acsm?id=WFQLDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Pro_Angular-sample-pdf.acsm?id=WFQLDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=WFQLDgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the previous part of the book, I configured the SystemJS JavaScript module \u003cbr\u003e\nloader so that it resolved all dependencies on the \u003cb\u003erxjs\u003c/b\u003e package by loading the \u003cbr\u003e\nnode_modules/\u003cb\u003erxjs\u003c/b\u003e/bundles/Rx.min.js file. This is an approach that works nicely \u003cbr\u003e\nuntil&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XZ6wDQAAQBAJ",
+      "etag": "JWdmJZBaUyI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XZ6wDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Reactive Programming with Node.js",
+        "authors": [
+          "Fernando Doglio"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2016-12-08",
+        "description": "Learn how to institute Reactive Programming (RP) for your back-end development with Node.js. Up to now, RP has most often been used in front-end development, but with its cutting-edge approach you can also transform your back-end programming. Reactive Programming with Node.js will show you the paradigms of RP, why you should use it, and the variations available to you. You will learn how to use the main libraries necessary to provide an enhanced development experience in Node.js, including RxJS, Bacon.js, Kefir.js, and Highland.js. You will also create a custom library that provides a variety of key features, and learn how to scale up a system developed using RP in Node.js. Ideal for back-end developers with knowledge of Node.js or JavaScript, this book enables you to get up and running with RP in Node.js, and revolutionize your back-end development. What You'll Learn: Review the variations of Reactive programming Use the main libraries that provide this type of development experience in Node.js Create a custom library Scale up a system developed using RP in Node.js Who This Book Is For: Any back-end developers who understand Node.js or are advanced enough to pick up the basics. Ideal for developers who have an interest in learning about this different programming paradigm that's being used more and more every day.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484221525"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1484221524"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 153,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XZ6wDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XZ6wDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XZ6wDQAAQBAJ&pg=PA87&dq=RxJS&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XZ6wDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-XZ6wDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 16.19,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XZ6wDQAAQBAJ&rdid=book-XZ6wDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2.999E7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.619E7,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Reactive_Programming_with_Node_js-sample-epub.acsm?id=XZ6wDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Reactive_Programming_with_Node_js-sample-pdf.acsm?id=XZ6wDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=XZ6wDQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For such contributions, they do provide a Wiki page in case you&#39;re interested (\u003cbr\u003e\nwhich you can find at https://github.com/Reactive-Extensions/\u003cb\u003eRxJS\u003c/b\u003e/wiki/\u003cbr\u003e\nContributions). But bear in mind that by the looks of it, they are the only ones who \u003cbr\u003e\nget to&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zANwDQAAQBAJ",
+      "etag": "8reMcvWmL44",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zANwDQAAQBAJ",
+      "volumeInfo": {
+        "title": "MEAN Blueprints",
+        "authors": [
+          "Robert Onodi"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2016-05-30",
+        "description": "Unlock the power of the MEAN stack by creating attractive and real-world projects About This Book Build six optimum end-to-end web applications using the M.E.A.N stack Follow the advanced Angular.js 2 application structure to build more scalable and maintainable apps Integrate an authorization system into your application and reuse existing code from projects Who This Book Is For If you are a web developer with a basic understanding of the MEAN stack, experience in developing applications with JavaScript, and basic experience with NoSQL databases, then this book is for you. What You Will Learn Build modern, end-to-end web applications by employing the full stack web development solution of MEAN Learn NoSQL databases and separate the client logic from the server code Build a complex application from start to finish and work with monetary data in MongoDB Handle a multi-user type system and authorize your users to access control list Implement a chat application from scratch using Socket.IO Create distributed applications and use the power of server-side rendering in your applications Extend a project with a real-time bidding system using WebSockets In Detail The MEAN stack is a combination of the most popular web development frameworks available—MongoDB, Angular, Express, and Node.js used together to offer a powerful and comprehensive full stack web development solution. It is the modern day web dev alternative to the old LAMP stack. It works by allowing AngularJS to handle the front end, and selecting Mongo, Express, and Node to handle the back-end development, which makes increasing sense to forward-thinking web developers. The MEAN stack is great if you want to prototype complex web applications. This book will enable you to build a better foundation for your AngularJS apps. Each chapter covers a complete, single, advanced end-to-end project. You'll learn how to build complex real-life applications with the MEAN stack and few more advanced projects. You will become familiar with WebSockets and build real-time web applications, as well as create auto-destructing entities. Later, we will combine server-side rendering techniques with a single page application approach. You'll build a fun project and see how to work with monetary data in Mongo. You will also find out how to a build real-time e-commerce application. By the end of this book, you will be a lot more confident in developing real-time, complex web applications using the MEAN stack. Style and approach This book is filled with independent hands-on projects that teach you how to build real-life end-to-end complex web applications using the MEAN stack.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781785285806"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1785285807"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zANwDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zANwDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zANwDQAAQBAJ&pg=PA209&dq=RxJS&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zANwDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-zANwDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 35.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 22.39,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zANwDQAAQBAJ&rdid=book-zANwDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3.599E7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 2.239E7,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=zANwDQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... import &#39;\u003cb\u003erxjs\u003c/b\u003e/add/operator/map&#39;; import &#39;\u003cb\u003erxjs\u003c/b\u003e/add/operator/share&#39;; import &#39;\u003cb\u003erxjs\u003c/b\u003e/add/\u003cbr\u003e\noperator/combineLatest&#39;; import &#39;\u003cb\u003erxjs\u003c/b\u003e/add/operator/distinctUntilChanged&#39;; import &#39;\u003cbr\u003e\n\u003cb\u003erxjs\u003c/b\u003e/add/operator/debounceTime&#39;; bootstrap(AppComponent,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oVCLvgAACAAJ",
+      "etag": "lEDidNeoIrY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oVCLvgAACAAJ",
+      "volumeInfo": {
+        "title": "Ng-Book 2",
+        "subtitle": "The Complete Book on Angular 2",
+        "authors": [
+          "Nate Murray",
+          "Ari Lerner",
+          "Felipe Coury",
+          "Carlos Taborda"
+        ],
+        "publishedDate": "2016-10-01",
+        "description": "Ready to master Angular 2?What if you could master the entire framework - with solid foundations - in less time without beating your head against a wall? Imagine how quickly you could work if you knew the best practices and the best tools?Stop wasting your time searching and have everything you need to be productive in one, well-organized place, with complete examples to get your project up without needing to resort to endless hours of research.You will learn what you need to know to work professionally with ng-book: The Complete Book on Angular 2",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0991344618"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780991344611"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "averageRating": 5.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oVCLvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oVCLvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oVCLvgAACAAJ&dq=RxJS&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oVCLvgAACAAJ&dq=RxJS&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ng_Book_2.html?hl=&id=oVCLvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=oVCLvgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Imagine how quickly you could work if you knew the best practices and the best tools?Stop wasting your time searching and have everything you need to be productive in one, well-organized place, with complete examples to get your project up ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gYY1DQAAQBAJ",
+      "etag": "ZjJIpEXNeyg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gYY1DQAAQBAJ",
+      "volumeInfo": {
+        "title": "Reactive Programming with RxJava",
+        "subtitle": "Creating Asynchronous, Event-Based Applications",
+        "authors": [
+          "Tomasz Nurkiewicz",
+          "Ben Christensen"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2016-10-06",
+        "description": "In today’s app-driven era, when programs are asynchronous and responsiveness is so vital, reactive programming can help you write code that’s more reliable, easier to scale, and better-performing. With this practical book, Java developers will first learn how to view problems in the reactive way, and then build programs that leverage the best features of this exciting new programming paradigm. Authors Tomasz Nurkiewicz and Ben Christensen include concrete examples that use the RxJava library to solve real-world performance issues on Android devices as well as the server. You’ll learn how RxJava leverages parallelism and concurrency to help you solve today’s problems. This book also provides a preview of the upcoming 2.0 release. Write programs that react to multiple asynchronous sources of input without descending into \"callback hell\" Get to that aha! moment when you understand how to solve problems in the reactive way Cope with Observables that produce data too quickly to be consumed Explore strategies to debug and to test programs written in the reactive style Efficiently exploit parallelism and concurrency in your programs Learn about the transition to RxJava version 2",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491931608"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491931604"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 372,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gYY1DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gYY1DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gYY1DQAAQBAJ&printsec=frontcover&dq=RxJS&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gYY1DQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-gYY1DQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 38.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 22.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gYY1DQAAQBAJ&rdid=book-gYY1DQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3.899E7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 2.299E7,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=gYY1DQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "You’ll learn how RxJava leverages parallelism and concurrency to help you solve today’s problems. This book also provides a preview of the upcoming 2.0 release."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9LbjCwAAQBAJ",
+      "etag": "8MTaqbDHI6w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9LbjCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Switching to Angular 2",
+        "authors": [
+          "Minko Gechev"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2016-03-30",
+        "description": "Build SEO-friendly, high-performance single-page applications with Angular 2 About This Book Get up to date with the latest changes to Angular 2, including the improvements to directives, change detection, dependency injection, router, and more Understand Angular 2's new component-based architecture Start using TypeScript to supercharge your Angular 2 applications Who This Book Is For Do you want to jump in at the deep end of Angular 2? Or perhaps you're interested assessing the changes before moving over? If so, then Switching to Angular 2 is the book for you. To get the most out of the book, you'll need to be familiar with AngularJS 1.x, and have a good understanding of JavaScript. No knowledge of the changes made to Angular 2 is required follow along. What You Will Learn Understand the changes made from Angular 1.x with side-by-side code samples to help demystify the Angular 2 learning curve Start working with Angular 2's new method of implementing directives Use TypeScript to write modern, powerful Angular 2 applications Dig in to the change-detection method, and other architectural changes to make sure you know what's going on under the hood of Angular 2. Get to work with the new router in Angular 2 Use the new features of Angular 2 including pipes, or the updated features such as forms, services, and the DI module Master server-side rendering in Angular 2 to keep your new applications SEO friendly In Detail AngularJS is a JavaScript framework that makes building web applications easier. It is used today in large-scale, high-traffic websites that struggle with under-performance, portability issues, as well as SEO unfriendliness, and complexity at scale. Angular 2 changes that. It is the modern framework you need to build performant and robust web applications. “Switching to Angular 2” is the quickest way to get to grips with Angular 2 and will help you transition in to the brave new world of Angular 2. We'll start with an overview which sets the changes of the framework in context with version 1.x. After that, you will be taken on a TypeScript crash-course so we can take advantage of Angular 2 in its native, statically-typed environment. We'll look at the new change-detection method in detail, how Directives and Components change how you create websites with Angular, the new Angular 2 router, and much more. By the end of the book, you'll be ready to start building quick and efficient Angular 2 applications that take advantage of all the new features on offer. Style and approach Starting with a comparison between Angular versions that is filled with side-by-side code examples to help highlight the changes, each chapter then looks at major changes to the framework as is filled with small examples and sample code to get you started",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781785887116"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1785887114"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9LbjCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9LbjCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9LbjCwAAQBAJ&pg=PA76&dq=RxJS&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9LbjCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-9LbjCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 17.19,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9LbjCwAAQBAJ&rdid=book-9LbjCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2.799E7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.719E7,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=9LbjCwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Just before closing the body tag, we have references to four script files: the \u003cbr\u003e\npolyfills required by the framework (including ES2015 shim, zone.js, and others), \u003cbr\u003e\n\u003cb\u003eRxJS\u003c/b\u003e, the ES5 bundle of Angular 2, and the file that contains the application we&#39;\u003cbr\u003e\nre&nbsp;..."
+      }
+    }
+  ]
+}

@@ -1,20 +1,34 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { FormsModule } from '@angular/forms';
+import { ReactiveFormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
+import { RouterModule } from '@angular/router';
+import { MaterialModule } from '@angular/material';
 
 import { AppComponent } from './app.component';
+import { SearchComponent } from './search.component';
+
+import { GoogleBooksService } from './google-books.service';
+import { BookSearchComponent } from './book-search.component';
+import { SearchResultsComponent } from './search-results.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SearchComponent,
+    BookSearchComponent,
+    SearchResultsComponent
   ],
   imports: [
     BrowserModule,
-    FormsModule,
-    HttpModule
+    ReactiveFormsModule,
+    HttpModule,
+    MaterialModule,
+    RouterModule.forRoot([
+      { path: '', component: SearchComponent }
+    ])
   ],
-  providers: [],
+  providers: [GoogleBooksService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
