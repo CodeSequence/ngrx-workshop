@@ -7,3 +7,4 @@ export interface State {
 export const reducers = {
   search: fromSearch.reducer
 };
+

@@ -14,13 +14,15 @@ import { SearchResultsComponent } from './search-results.component';
 
 import { StoreModule } from '@ngrx/store';
 import { reducers } from './reducers';
+import { ResultsCountComponent } from './results-count.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SearchComponent,
     BookSearchComponent,
-    SearchResultsComponent
+    SearchResultsComponent,
+    ResultsCountComponent
   ],
   imports: [
     BrowserModule,
