@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 import { Observable } from 'rxjs/Observable';
 
 import { Book } from './book-model';
-import { GoogleBooksService } from './google-books.service';
 
 import { Store } from '@ngrx/store';
 import * as SearchActions from './search-actions';
@@ -23,7 +22,6 @@ export class SearchComponent {
   books: Observable<Book[]>;
 
   constructor(
-    private booksService: GoogleBooksService,
     private store: Store<fromRoot.State>
   ) {
     this.terms = store.select(fromRoot.selectTerms);
@@ -32,8 +30,5 @@ export class SearchComponent {
 
   onSearch(terms: string) {
     this.store.dispatch(new SearchActions.Search(terms));
-    
-    this.booksService.searchBooks(terms)
-      .subscribe(results => this.store.dispatch(new SearchActions.SearchSuccess(results)));
   }
 }
