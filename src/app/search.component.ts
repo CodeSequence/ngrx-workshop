@@ -21,16 +21,13 @@ import * as fromRoot from './reducers';
 export class SearchComponent {
   terms: Observable<string>;
   books: Observable<Book[]>;
-  count: Observable<number>;
 
   constructor(
     private booksService: GoogleBooksService,
     private store: Store<fromRoot.State>
   ) {
-    this.terms = store.select(state => state.search.searchTerms);
-    this.books = store.select(state => state.search.results);
-    this.count = store.select(state => state.search.results.length);
-
+    this.terms = store.select(fromRoot.selectTerms);
+    this.books = store.select(fromRoot.selectResults);
   }
 
   onSearch(terms: string) {

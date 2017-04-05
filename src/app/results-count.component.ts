@@ -26,7 +26,7 @@ export class ResultsCountComponent implements OnInit {
   constructor(
     private store: Store<fromRoot.State>
     ) {
-      this.count = store.select(state => state.search.results.length);
+      this.count = store.select(fromRoot.selectCount);
     }
 
   ngOnInit() {
