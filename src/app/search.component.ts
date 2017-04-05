@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ChangeDetectionStrategy } from '@angular/core';
 import { Observable } from 'rxjs/Observable';
 
 import { Book } from './book-model';
@@ -15,7 +15,8 @@ import * as fromRoot from './reducers';
     <app-results-count></app-results-count>
 
     <app-search-results [books]="books | async"></app-search-results>
-  `
+  `,
+  changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class SearchComponent {
   terms: Observable<string>;

@@ -19,6 +19,8 @@ import { ResultsCountComponent } from './results-count.component';
 import { EffectsModule } from '@ngrx/effects';
 import { BookEffects } from './book-effects';
 
+import { StoreDevtoolsModule } from '@ngrx/store-devtools';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -36,7 +38,8 @@ import { BookEffects } from './book-effects';
       { path: '', component: SearchComponent }
     ]),
     StoreModule.provideStore(reducers),
-    EffectsModule.run(BookEffects)
+    EffectsModule.run(BookEffects),
+    StoreDevtoolsModule.instrumentOnlyWithExtension()
   ],
   providers: [GoogleBooksService],
   bootstrap: [AppComponent]
