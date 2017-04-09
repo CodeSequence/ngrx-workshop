@@ -20,7 +20,7 @@ export class GoogleBooksService {
         } else {
           return this.http.get('/assets/empty.json');
         }
-      })    
+      })
       .map(res => res.json().items || []);
   }
 }
