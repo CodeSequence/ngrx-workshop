@@ -8,7 +8,7 @@ https://codesequence.github.io/ngrx-workshop
 
 ## Video
 
-https://youtu.be/T7su3s7uhq4?t=3h21m58s
+https://www.youtube.com/watch?v=cyaAhXHhxgk
 
 ## Install
 
