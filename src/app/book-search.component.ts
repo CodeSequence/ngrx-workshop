@@ -1,6 +1,6 @@
 import 'rxjs/add/operator/debounceTime';
 import 'rxjs/add/operator/filter';
-import { Component, Output, Input, EventEmitter } from '@angular/core';
+import { Component, Output, Input, EventEmitter, OnInit } from '@angular/core';
 import { FormControl } from '@angular/forms';
 
 @Component({
@@ -26,7 +26,7 @@ import { FormControl } from '@angular/forms';
     }
   `]
 })
-export class BookSearchComponent {
+export class BookSearchComponent implements OnInit {
   searchTerms: FormControl = new FormControl();
 
   @Input() set value(val: string) {
@@ -39,7 +39,7 @@ export class BookSearchComponent {
     this.searchTerms
       .valueChanges
       .debounceTime(500)
-      .filter(terms => terms != '' && terms !== this.value)
+      .filter(terms => terms !== '' && terms !== this.value)
       .subscribe(this.search);
   }
 }
